@@ -163,25 +163,25 @@ This shows that students who do well in reading and writing generally also perfo
 ### Average Score by Subject
 
 <p align="center">
-  <img src="assets/subject-average-analysis.png" alt="Average Score by Subject" width="750">
+  <img src="assets/average_score_by_subject.png" alt="Average Score by Subject" width="750">
 </p>
 
 ### Average Score by Gender
 
 <p align="center">
-  <img src="assets/gender-average-analysis.png" alt="Average Score by Gender" width="750">
+  <img src="assets/average_score_by_gender.png" alt="Average Score by Gender" width="750">
 </p>
 
 ### Average Score by Lunch Type
 
 <p align="center">
-  <img src="assets/lunch-average-analysis.png" alt="Average Score by Lunch Type" width="750">
+  <img src="assets/average_score_by_lunch.png" alt="Average Score by Lunch Type" width="750">
 </p>
 
 ### Average Score by Test Preparation Course
 
 <p align="center">
-  <img src="assets/test-prep-analysis.png" alt="Average Score by Test Preparation Course" width="750">
+  <img src="assets/average_score_by_test_preparation.png" alt="Average Score by Test Preparation Course" width="750">
 </p>
 
 ---
@@ -261,7 +261,7 @@ This project now includes:
 Replace this placeholder later with your actual React browser screenshot.
 
 <p align="center">
-  <img src="assets/react-page-placeholder.png" alt="React Home Page Placeholder" width="850">
+  <img src="assets/react-homepage.png" alt="React Home Page" width="850">
 </p>
 
 ### Prediction Result Placeholder
@@ -269,7 +269,7 @@ Replace this placeholder later with your actual React browser screenshot.
 Replace this placeholder later with your actual prediction result screenshot.
 
 <p align="center">
-  <img src="assets/prediction-result-placeholder.png" alt="Prediction Result Placeholder" width="850">
+  <img src="assets/prediction-result.png" alt="Prediction Result" width="850">
 </p>
 
 ---
